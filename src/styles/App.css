@@ -1,0 +1,11 @@
+.input{
+  display: flex;
+  justify-content: space-around;
+}
+.imageReturns{
+  display: flex;
+  flex-wrap: wrap;
+}
+body{
+  background-color: #ffffff;
+}
